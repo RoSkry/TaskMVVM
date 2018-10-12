@@ -1,0 +1,39 @@
+D:\Скрипник Ростислав\Pattern mvvm\TaskMVVM\TaskMVVM\bin\Debug\TaskMVVM.exe.config
+D:\Скрипник Ростислав\Pattern mvvm\TaskMVVM\TaskMVVM\bin\Debug\TaskMVVM.exe
+D:\Скрипник Ростислав\Pattern mvvm\TaskMVVM\TaskMVVM\bin\Debug\TaskMVVM.pdb
+D:\Скрипник Ростислав\Pattern mvvm\TaskMVVM\TaskMVVM\obj\Debug\Views\MainWindow.g.cs
+D:\Скрипник Ростислав\Pattern mvvm\TaskMVVM\TaskMVVM\obj\Debug\App.g.cs
+D:\Скрипник Ростислав\Pattern mvvm\TaskMVVM\TaskMVVM\obj\Debug\TaskMVVM_MarkupCompile.cache
+D:\Скрипник Ростислав\Pattern mvvm\TaskMVVM\TaskMVVM\obj\Debug\TaskMVVM_MarkupCompile.lref
+D:\Скрипник Ростислав\Pattern mvvm\TaskMVVM\TaskMVVM\obj\Debug\Views\MainWindow.baml
+D:\Скрипник Ростислав\Pattern mvvm\TaskMVVM\TaskMVVM\obj\Debug\TaskMVVM.g.resources
+D:\Скрипник Ростислав\Pattern mvvm\TaskMVVM\TaskMVVM\obj\Debug\TaskMVVM.Properties.Resources.resources
+D:\Скрипник Ростислав\Pattern mvvm\TaskMVVM\TaskMVVM\obj\Debug\TaskMVVM.csproj.GenerateResource.cache
+D:\Скрипник Ростислав\Pattern mvvm\TaskMVVM\TaskMVVM\obj\Debug\TaskMVVM.csproj.CoreCompileInputs.cache
+D:\Скрипник Ростислав\Pattern mvvm\TaskMVVM\TaskMVVM\obj\Debug\TaskMVVM.exe
+D:\Скрипник Ростислав\Pattern mvvm\TaskMVVM\TaskMVVM\obj\Debug\TaskMVVM.pdb
+D:\Скрипник Ростислав\Pattern mvvm\TaskMVVM\TaskMVVM\obj\Debug\TaskMVVM.Resources.LabelResources.resources
+D:\Скрипник Ростислав\Pattern mvvm\TaskMVVM\TaskMVVM\obj\Debug\TaskMVVM.Resources.ButtonResources.resources
+D:\Скрипник Ростислав\Pattern mvvm\TaskMVVM\TaskMVVM\obj\Debug\TaskMVVM.csprojAssemblyReference.cache
+D:\Скрипник Ростислав\Pattern mvvm\TaskMVVM\TaskMVVM\obj\Debug\Views\AddStudentView.g.cs
+D:\Скрипник Ростислав\Pattern mvvm\TaskMVVM\TaskMVVM\obj\Debug\Views\AddStudentView.baml
+D:\Скрипник Ростислав\Pattern mvvm\TaskMVVM\TaskMVVM\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\29ПР31\Pattern mvvm\TaskMVVM\TaskMVVM\bin\Debug\TaskMVVM.exe.config
+F:\29ПР31\Pattern mvvm\TaskMVVM\TaskMVVM\bin\Debug\TaskMVVM.exe
+F:\29ПР31\Pattern mvvm\TaskMVVM\TaskMVVM\bin\Debug\TaskMVVM.pdb
+F:\29ПР31\Pattern mvvm\TaskMVVM\TaskMVVM\obj\Debug\TaskMVVM.csprojResolveAssemblyReference.cache
+F:\29ПР31\Pattern mvvm\TaskMVVM\TaskMVVM\obj\Debug\Views\AddStudentView.g.cs
+F:\29ПР31\Pattern mvvm\TaskMVVM\TaskMVVM\obj\Debug\Views\MainWindow.g.cs
+F:\29ПР31\Pattern mvvm\TaskMVVM\TaskMVVM\obj\Debug\App.g.cs
+F:\29ПР31\Pattern mvvm\TaskMVVM\TaskMVVM\obj\Debug\TaskMVVM_MarkupCompile.cache
+F:\29ПР31\Pattern mvvm\TaskMVVM\TaskMVVM\obj\Debug\TaskMVVM_MarkupCompile.lref
+F:\29ПР31\Pattern mvvm\TaskMVVM\TaskMVVM\obj\Debug\Views\AddStudentView.baml
+F:\29ПР31\Pattern mvvm\TaskMVVM\TaskMVVM\obj\Debug\Views\MainWindow.baml
+F:\29ПР31\Pattern mvvm\TaskMVVM\TaskMVVM\obj\Debug\TaskMVVM.g.resources
+F:\29ПР31\Pattern mvvm\TaskMVVM\TaskMVVM\obj\Debug\TaskMVVM.Properties.Resources.resources
+F:\29ПР31\Pattern mvvm\TaskMVVM\TaskMVVM\obj\Debug\TaskMVVM.Resources.ButtonResources.resources
+F:\29ПР31\Pattern mvvm\TaskMVVM\TaskMVVM\obj\Debug\TaskMVVM.Resources.LabelResources.resources
+F:\29ПР31\Pattern mvvm\TaskMVVM\TaskMVVM\obj\Debug\TaskMVVM.csproj.GenerateResource.cache
+F:\29ПР31\Pattern mvvm\TaskMVVM\TaskMVVM\obj\Debug\TaskMVVM.csproj.CoreCompileInputs.cache
+F:\29ПР31\Pattern mvvm\TaskMVVM\TaskMVVM\obj\Debug\TaskMVVM.exe
+F:\29ПР31\Pattern mvvm\TaskMVVM\TaskMVVM\obj\Debug\TaskMVVM.pdb
